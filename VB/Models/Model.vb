@@ -3,7 +3,7 @@ Imports System.Data
 Imports System.Data.OleDb
 Imports System.Collections.Generic
 Imports System.Linq
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports System.Collections
 Imports DevExpress.Data.Linq
 Imports DevExpress.Data.Linq.Helpers

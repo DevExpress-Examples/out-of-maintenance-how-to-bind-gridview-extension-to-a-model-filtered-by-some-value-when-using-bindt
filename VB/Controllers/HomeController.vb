@@ -4,7 +4,7 @@ Imports System.Web.Mvc
 Imports DevExpress.XtraPrinting
 Imports DevExpress.XtraPrintingLinks
 Imports DevExpress.Web.Mvc
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Data
 Imports DevExpress.XtraReports.UI
 Imports System.Collections.Generic
